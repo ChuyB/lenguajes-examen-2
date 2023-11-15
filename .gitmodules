@@ -1,0 +1,3 @@
+[submodule "pregunta1"]
+	path = pregunta1
+	url = https://github.com/ChuyB/ts-calculator
