@@ -1,3 +1,6 @@
 [submodule "pregunta2"]
 	path = pregunta2
 	url = https://github.com/ChuyB/ts-calculator
+[submodule "pregunta5"]
+	path = pregunta5
+	url = https://github.com/ChuyB/atomic-types
